@@ -1,0 +1,20 @@
+/* Custom Styles */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+header {
+  background-color: #007bff;
+}
+
+section {
+  padding: 60px 0;
+}
+
+.bg-dark {
+  background-color: #343a40 !important;
+}
+
+.bg-light {
+  background-color: #f8f9fa !important;
+}
